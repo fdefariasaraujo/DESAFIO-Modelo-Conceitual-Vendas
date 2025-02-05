@@ -25,8 +25,8 @@ menos 2 contratações por departamento.*
 
 ### Diagrama de classes
 
-![modelo-conceitual-vendas-classe]()
+![modelo-conceitual-vendas-classe](https://github.com/user-attachments/assets/c6e15e90-d205-4128-959a-00ccfe0ce50c)
 
 ### Instância mínima
 
-![modelo-conceitual-vendas-objetos]()
+![modelo-conceitual-vendas-objetos](https://github.com/user-attachments/assets/a717e646-a917-44d5-aaa6-9b7853a86935)
